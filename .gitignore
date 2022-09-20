@@ -1,0 +1,6 @@
+*pth
+*.log
+*json
+faster_rcnn_r50_fpn_1x_rlt/*pth
+faster_rcnn_r50_fpn_1x_rlt/*.log
+
